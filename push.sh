@@ -1,4 +1,4 @@
 git add .
-git commit -m "created the first rest api i.e. hello api "
+git commit -m "added post put patch and delete methods in our api and tested those "
 git branch -M main
 git push origin main
