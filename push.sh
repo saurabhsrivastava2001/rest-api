@@ -1,4 +1,4 @@
 git add .
-git commit -m "added post put patch and delete methods in our api and tested those "
+git commit -m "added viewsets to profile api"
 git branch -M main
 git push origin main
