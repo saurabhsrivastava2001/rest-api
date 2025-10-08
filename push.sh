@@ -1,4 +1,4 @@
 git add .
-git commit -m "after creating the superuser and testing the admin panel the api creation is due and calling it a day"
+git commit -m "created the first rest api i.e. hello api "
 git branch -M main
 git push origin main
